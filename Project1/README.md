@@ -1,5 +1,7 @@
 
-#Project 1
+Project 1
+===
 
-##Set up
+Set up
+---
 https://github.com/IRkernel/IRkernel.git
