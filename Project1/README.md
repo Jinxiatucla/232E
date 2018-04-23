@@ -9,8 +9,7 @@ Project 1
 ├── problem1_3.ipynb
 ├── problem2_1.ipynb
 ├── problem2_2.ipynb
-├── problem2_34.ipynb
-└── sample.ipynb
+└── problem2_34.ipynb
 ```
 
 Introduction
