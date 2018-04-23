@@ -12,7 +12,6 @@ Project 1
 ├── problem2_34.ipynb
 └── sample.ipynb
 ```
-===
 
 Introduction
 ---
