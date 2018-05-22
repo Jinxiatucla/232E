@@ -4,6 +4,7 @@ Project 3
 ```
 .
 ├── README.md
+├── 232E_PJ3_report.pdf
 ├── question1.ipynb
 ├── question11-17.ipynb
 ├── question18-24.ipynb
