@@ -9,6 +9,8 @@ Project 3
 ├── question18-24.ipynb
 ├── question18.ipynb
 ├── question2.ipynb
+├── question25_1.ipynb
+├── question25_2.ipynb
 ├── question3-5.ipynb
 ├── question6-8.ipynb
 └── question9.ipynb
@@ -29,3 +31,5 @@ Usage
 5. question9.ipynb solution for Q9
 6. question11-17.ipynb solution for Q11-17
 7. question18-24.ipynb solution for Q18-24
+8. question25_1.ipynb solution for Q25 with the modification to solve one of the discrepancy
+9. question25_2.ipynb solution for Q25 with the modification to solve the both discrepancies
